@@ -23,7 +23,7 @@ Results:<br/>
   
     - To be updated!
 
-## Thanks
+# Thanks for viewing my Quiz App repo
 
 *****Technical documentation*****
 
