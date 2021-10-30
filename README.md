@@ -10,13 +10,13 @@ Home screen: <br/>
 - When clicked takes you to the first question. <br/>
 <br/>
 Question screen:<br/>
-Use a single screen for all questions (1 ? at a time).<br/>
-When all the questions are answered take them to the results screen.<br/>
-Shows how many questions they have left.<br/>
+- Use a single screen for all questions (1 ? at a time).<br/>
+- When all the questions are answered take them to the results screen.<br/>
+- Shows how many questions they have left.<br/>
 <br/>
 Results:<br/>
-Show the questions if they are right or wrong.<br/>
-Show how many they got right.<br/>
+- Show the questions if they are right or wrong.<br/>
+- Show how many they got right.<br/>
 😊
     
  ## What I Learned
