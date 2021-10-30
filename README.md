@@ -29,7 +29,7 @@ Thanks for viewing my Quiz App repo
 
 ## Technical documentation: React App
 
-## Getting Started with Create React App
+<h2> Getting Started with Create React App </h2>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
