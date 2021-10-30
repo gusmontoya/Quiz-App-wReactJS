@@ -24,8 +24,9 @@ Results:<br/>
     - To be updated!
 
 Thanks for viewing my Quiz App repo
-
-*****Technical documentation*****
+<br/>
+<br/>
+#*****Technical documentation*****
 
 ## Getting Started with Create React App
 
