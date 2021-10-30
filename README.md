@@ -32,9 +32,9 @@ Thanks for viewing my Quiz App repo<br/>
 <h2> Getting Started with Create React App </h2><br/>
 <br/>
 In the project directory, you can run:<br/>
-<br/>
+
 ### `yarn start`<br/>
-<br/>
+
 Runs the app in the development mode.\<br/>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.<br/>
 <br/>
