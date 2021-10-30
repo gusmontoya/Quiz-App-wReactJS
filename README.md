@@ -23,12 +23,11 @@ Results:<br/>
   
     - To be updated!
 
-Thanks for viewing my Quiz App repo<br/>
+<h2>Thanks for viewing my Quiz App repo!</h2><br/>
 <br/>
 <br/>
 
-## Technical documentation: React App<br/>
-<br/>
+
 <h2> Getting Started with Create React App </h2><br/>
 <br/>
 In the project directory, you can run:<br/>
