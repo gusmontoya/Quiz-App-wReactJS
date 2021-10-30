@@ -23,22 +23,22 @@ Results:<br/>
   
     - To be updated!
 
-Thanks for viewing my Quiz App repo
+Thanks for viewing my Quiz App repo<br/>
 <br/>
 <br/>
 
-## Technical documentation: React App
+## Technical documentation: React App<br/>
 <br/>
-<h2> Getting Started with Create React App </h2>
+<h2> Getting Started with Create React App </h2><br/>
 <br/>
-In the project directory, you can run:
+In the project directory, you can run:<br/>
 <br/>
-### `yarn start`
+### `yarn start`<br/>
 <br/>
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Runs the app in the development mode.\<br/>
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.<br/>
 <br/>
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+The page will reload if you make edits.\<br/>
+You will also see any lint errors in the console.<br/>
 <br/>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
