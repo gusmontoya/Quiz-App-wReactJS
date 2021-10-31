@@ -4,13 +4,13 @@ import "./App.css";
 import Home from './Home';
 import Question from './Question';
 import Result from './Result';
-
+import {Route, Link} from 'react-router-dom';
 function App() {
   return (
       <div className="App">
-        <Home />
-        <Question />
-        <Result />
+        <Route exact to="/" component={Home} />
+        <Route exact to="/Question" component={Question} />
+        <Route exact to="/Result" component={Result} />
     </div>
   );
 }
