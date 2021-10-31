@@ -13,7 +13,9 @@ function Result() {
           <h3>Question submitted</h3>
           <h5>User answer here</h5>
         </div>
-        <div>`${amtQ_correct}/${total_Q} Correct`</div>
+        <div>
+            <p>amtQ_correct/total_Q Correct</p>
+        </div>
         <button className="w-1/2 p-4 text-green-800">Want to try again?</button>
       </div>
     );
