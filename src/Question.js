@@ -16,7 +16,32 @@ function Question() {
           <button className="w-1/2 p-4 text-green-800">Answer 3</button>
           <button className="w-1/2 p-4 text-green-800">Answer 4</button>
         </div>
-        <div>Remainder of questoins</div>
+        <div>Remainder of questions</div>
+{/* Handles questions
+This function has one argument "isCorrect". if "isCorrect" is true then we increment the score value.
+After clicking any option then we increment "currentQuestion" by on and stored it in the "nextQuestions".
+If "nextQuestions" is less than the length of the questions hen we set he "currentQuestion" to "nextQuestions". 
+Otherwise, we set the "showScore" to true. */}
+        {/* const handleAnswerButtonClick = (isCorrect) => {
+            if (isCorrect === true) {
+              setScore(score + 1);
+            }
+
+            const nextQuetions = currentQuestion + 1;
+            if (nextQuetions < questions.length) {
+              setCurrentQuestion(nextQuetions);
+            }
+            else {
+              setShowScore(true)
+            }
+          } */}
+
+
+
+
+
+
+
         <button className="w-1/2 p-4 text-green-800">Submit</button>
       </div>
     );

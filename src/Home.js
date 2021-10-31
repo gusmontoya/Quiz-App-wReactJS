@@ -1,19 +1,29 @@
 import React from 'react';
+// import {Link} from "react-router-dom";
+import "./Home.css";
+import Button from './Button';
 
-function Home() {
-    return (
+
+
+// function Home() {
+const Start = ({props}) => {
+
+const startQuiz = () => props(true)
+
+  return (
       <div class="container">
-        <div class='bg-white text-green-800 p-10 rounded-lg shadow-md'>
-          <h2 className='text-2xl'>
+        <div>
+          
+          <h2 class="welcome">
           Welcome to the trivia app
           </h2>
         </div>
         <div>
           Please select the amount of questions you want to quiz yourself.
         </div>
-        <button className="w-1/2 p-4 text-green-800">Start</button>
+          <Button onClick={startQuiz} >Start</Button>
       </div>
     );
   }
 
-  export default Home;
+  export default Start;
