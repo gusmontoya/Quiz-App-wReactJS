@@ -12,16 +12,19 @@ const startQuiz = () => props(true)
 
   return (
       <div class="container">
-        <div>
-          
-          <h2 class="welcome">
-          Welcome to the trivia app
+        <div class="welcome">
+          <h1>
+            Welcome to the trivia app
+          </h1>
+        </div>
+        <div class="amt_of_Questions">
+          <h2>
+            Please select the amount of questions you want.
           </h2>
         </div>
         <div>
-          Please select the amount of questions you want to quiz yourself.
-        </div>
           <Button onClick={startQuiz} >Start</Button>
+        </div>
       </div>
     );
   }
