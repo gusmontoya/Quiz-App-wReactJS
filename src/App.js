@@ -1,6 +1,5 @@
 import React from 'react';
 
-const API_URL = 'https://opentdb.com/api.php?amount=10';
 
 function App() {
   return (
@@ -10,7 +9,12 @@ function App() {
         Welcome to the Tivia app
         </h2>
       </div>
-      <div>Question amount picker</div>
+      <div>
+        <button className="w-1/2 p-4 text-green-800">Answer 1</button>
+        <button className="w-1/2 p-4 text-green-800">Answer 2</button>
+        <button className="w-1/2 p-4 text-green-800">Answer 3</button>
+        <button className="w-1/2 p-4 text-green-800">Answer 4</button>
+      </div>
       <div>Start button</div>
     </div>
   );
