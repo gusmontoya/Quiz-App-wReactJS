@@ -19,7 +19,7 @@ Results:<br/>
 - Show how many they got right.<br/>
 <br/>
 Design Objective<br/>
-![Image of design](src/assets/Schema-png.png)
+<img src="/src/assets/Schema-png.png">
 😊
     
  ## What I Learned
