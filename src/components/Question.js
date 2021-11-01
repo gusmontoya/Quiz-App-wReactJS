@@ -1,4 +1,6 @@
 import React from 'react';
+import Button from '../Button';
+
 
 const API_URL = 'https://opentdb.com/api.php?amount=10';
 
@@ -15,6 +17,9 @@ function Question() {
           <button className="w-1/2 p-4 text-green-800">Answer 2</button>
           <button className="w-1/2 p-4 text-green-800">Answer 3</button>
           <button className="w-1/2 p-4 text-green-800">Answer 4</button>
+        </div>
+        <div>
+          <Button>Submit</Button>
         </div>
         <div>Remainder of questions</div>
 {/* Handles questions

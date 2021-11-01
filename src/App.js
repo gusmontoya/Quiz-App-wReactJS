@@ -1,18 +1,16 @@
-import React from 'react';
+import React, { useState } from 'react';
 import "./App.css";
-import Home from './Home';
-import Question from './Question';
-import Result from './Result';
-import {Route} from 'react-router-dom';
+import Home from './components/Home';
+import Question from './components/Question';
 
 
 function App() {
-  return (
-      <div className="App" >
-        <Route exact path="/" component={Home} />
-        <Route exact path="/Question" component={Question} />
-        <Route exact path="/Result" component={Result} />
-    </div>
+    const [start, setStart] = useState(false);
+
+    return (
+      <div className="quiz">
+        { start ? <Question /> : <Home props={setStart} />}
+      </div>
   );
 }
 
