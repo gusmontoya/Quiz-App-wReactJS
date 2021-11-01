@@ -17,9 +17,9 @@ Question screen:<br/>
 Results:<br/>
 - Show the questions if they are right or wrong.<br/>
 - Show how many they got right.<br/>
-
-Design Objective
-![Image of design](gusmontoya/Quiz-App-wReactJS/src/assets/Schema.jpg)
+<br/>
+Design Objective<br/>
+![Image of design](https://github.com/gusmontoya/Quiz-App-wReactJS/blob/main/src/assets/Schema.jpg)
 😊
     
  ## What I Learned
