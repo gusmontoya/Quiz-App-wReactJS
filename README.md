@@ -19,7 +19,7 @@ Results:<br/>
 - Show how many they got right.<br/>
 <br/>
 Design Objective<br/>
-![Image of design](https://github.com/gusmontoya/Quiz-App-wReactJS/blob/main/src/assets/Schema-png.png?raw=true)
+![Image of design](src/assets/Schema-png.png)
 😊
     
  ## What I Learned
